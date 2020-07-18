@@ -1,5 +1,5 @@
 FROM continuumio/miniconda3
-MAINTAINER seokwooKang <pko954@amorepacific.com>
+MAINTAINER seokwooKang <pko954@gmail.com>
 
 ENV LC_ALL C.UTF-8
 ENV LANG C.UTF-8
