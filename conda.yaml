@@ -1,4 +1,4 @@
-name: ap-recsys-mlflow_ENV
+name: Mlflow_ENV
 channels:
   - defaults
 dependencies:
@@ -117,5 +117,4 @@ dependencies:
     - xlrd==1.2.0
     - xlwt==1.3.0
     - gevent==1.4.0
-prefix: /root/anaconda3/envs/ap-recsys-mlflow_ENV
 
